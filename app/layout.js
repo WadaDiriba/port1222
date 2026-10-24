@@ -6,6 +6,8 @@ export const metadata = {
     'Wada Technologies designs and builds fast, animated, carefully engineered websites and web apps.',
 };
 
+
+
 export const viewport = {
   themeColor: '#060912',
   colorScheme: 'dark',

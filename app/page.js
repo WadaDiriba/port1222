@@ -179,14 +179,15 @@ export default function Page() {
         </section>
       </main>
 
-      <footer className="footer">
-        <div className="wrap foot-in">
-          <span>
-            © {new Date().getFullYear()} {site.brand}
-          </span>
-          <a href="#top">Back to top</a>
-        </div>
-      </footer>
+     <footer className="footer">
+  <div className="wrap foot-in">
+    <span>
+      © 2026 {site.brand}
+    </span>
+    <a href="#top">Back to top</a>
+  </div>
+</footer>
+      
     </>
   );
 }
