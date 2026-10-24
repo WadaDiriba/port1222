@@ -104,7 +104,7 @@ export const projects = [
     name: 'Ozer Hulentenawi Agelgilot',
     text: 'A website for a non-profit organization that provides education and support to children in Ethiopia, built with Next.js and Tailwind CSS.',
     tags: ['Next.js', 'Tailwind CSS', 'Responsive Design'],
-    link: 'https://zerhulentenawiagelgilot.com',
+    link: 'https://ozerhulentenawiagelgilot.com',
     logo: '/logos/ozer.png',
     c1: 'rgba(255,179,71,.55)',
     c2: 'rgba(120,140,255,.45)',
