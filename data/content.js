@@ -2,7 +2,7 @@
 
 export const site = {
   brand: 'Wada Technologies',
-  role: 'Founder · Web developer & designer',
+  role: 'Founder · Web developer . Mobile App Developer',
   status: 'Taking on new projects',
   // Put your photo at public/photo.jpg (portrait, about 800 x 1000 px works well).
   photo: '/photo.jpg',
@@ -30,7 +30,7 @@ export const about = {
     'I handle design, code and launch, so the thing you approve is the thing that ships.',
     'I care about the details people notice without being able to name them: motion that explains what is happening, pages that load fast on a weak connection, and forms that send on the first try.',
   ],
-  toolkit: ['Next.js', 'React', 'Node.js', 'Prisma', 'JavaScript', 'CSS & motion', 'Vercel', 'Git'],
+  toolkit: ['Next.js', 'React', 'Node.js', 'Prisma', 'JavaScript', 'CSS & motion', 'Cpannel', 'Git'],
 };
 
 export const services = [
@@ -60,7 +60,7 @@ export const projects = [
     text: 'This site. A Next.js build with a live 3D star field, tilting interface layers and a contact form that delivers straight to my inbox.',
     tags: ['Next.js', 'Canvas', 'Web3Forms'],
     here: true,
-    logo: '/logos/wada-.svg',
+    logo: '/logos/wada.svg',
     c1: 'rgba(255,179,71,.55)',
     c2: 'rgba(127,214,255,.45)',
   },
